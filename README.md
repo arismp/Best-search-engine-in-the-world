@@ -1,6 +1,6 @@
 # Best search engine in the world
 Made by:
-Daniel Bischoff, Aris Boutsiarakos, Mihai Falcusan, Ben Tischberger, Lorenzo Valentini
+Daniel Bischoff, Aris Boutsiarakos, Mihai Falcusan, Ben Tischberger, Lorenzo Valentini  <br>
 This is a search engine on all things Tubingen related.
 ## Setup
 use `pip install -r dependencies.txt` to install all necessary dependencies
